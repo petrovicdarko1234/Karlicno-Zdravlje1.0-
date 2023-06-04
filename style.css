@@ -38,6 +38,34 @@
 
 }
 
+.slikeproblemi {
+    max-width: 90%;
+    border-radius: 50%;
+}
+
+#prolapsslika {
+    margin-top: 300px;
+}
+
+#urinarnaslika {
+    margin-top: 500px;
+}
+
+#fekalnaslika {
+    margin-top: 300px;
+}
+
+#seksslika {
+    margin-top: 350px;
+}
+
+#rehabslika {
+    margin-top: 350px;
+}
+
+#muskaracslika {
+    margin-top: 200px;
+}
 
 #haninprofil {
     margin-top: 300px;
