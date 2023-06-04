@@ -1,0 +1,112 @@
+.pozadina {
+    background-color: #3cc1bf;
+    height: 100px;
+    margin-top: 100px;
+}
+
+.karuselPlavi {
+    margin-top: 200px;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+
+}
+
+.karuselCrni {
+    margin-top: 200px;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+}
+
+#logo {
+    border-radius: 50%;
+    margin-left: -50px;
+
+}
+
+.slovcanav {
+    font-size: 30px;
+}
+
+/* fiksiran s position=fixed a margine pomerene za 300px*/
+#zanavbar {
+    max-width: 800px;
+    max-height: 300px;
+    text-align: center;
+    margin-left: 500px;
+
+}
+
+
+#haninprofil {
+    margin-top: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    max-height: 800px;
+}
+
+#milicinprofil {
+    margin-top: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    max-height: 800px;
+}
+
+#haninaslika {
+    border-radius: 50%;
+}
+
+#milicaslika {
+    border-radius: 50%;
+}
+
+#slikadiv1 {
+    text-align: center;
+}
+
+#slikadiv2 {
+    text-align: center;
+    margin-top: 150px;
+}
+
+#milicinprofil {
+    margin-top: 200px;
+}
+
+
+.navigacija {
+    text-align: center;
+}
+
+#ispodnavbar {
+    margin-top: 150px;
+}
+
+.pocetnaslike {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.textcont {
+    text-align: left;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.active {
+    font-weight: 500;
+}
+
+.karuselslike {
+    width: 10%;
+    border-radius: 100%;
+    margin-left: 300px;
+}
+
+.kdugme {
+    background-color: #3cc1bf;
+    max-width: 50px;
+    max-height: 50px;
+}
